@@ -9,11 +9,17 @@
 <div class="page-segments">
   <ul class="page-segments-list">
     {% for key in keys %}
-    <h2 id="{{ key }}" class="segment-name">{{ key }}</h2>
+    <h2 id="{{ key }}" class="segment-name">[{{ key }}] schedule</h2>
       {% assign items = site.posts | where: field, key | sort: date%}
+      {% assign prevdate = "" %}
       {% for item in items %}
         {% if item != nil %}
-        <li> {% include views/post-item.html %} </li>
+          {% assign curdate = item.date | date: "%m %d" %}
+          {% if curdate != prevdate %}
+            <hr noshade>
+            {% assign prevdate = curdate %}
+          {% endif %}
+          <li> {% include views/post-item.html %} </li>
         {% endif %}
       {% endfor %}
     {% endfor %}
