@@ -87,10 +87,10 @@ translate_langs:
 # this and add the path to the pages in order as they should show up
 header_pages:
    - index.html
+   - info.md
    - program.html
    - wiml.md
    - tags.html
-#   - about.md
 
 # Page default value
 # defaults:
