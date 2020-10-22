@@ -86,7 +86,7 @@ translate_langs:
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
 header_pages:
-   - index.html
+   - index.md
    - info.md
    - program.html
    - wiml.md
@@ -105,6 +105,8 @@ header_pages:
 # Disqus comments
 # disqus:
 #   shortname: "Your Disqus username"
+
+timezone: Asia/Tokyo
 
 # Gitment comments
 # gitment:
