@@ -17,6 +17,8 @@ Registration page is available soon. Every participant needs to follow NeurIPSâ€
 
 ### Program Overview
 
+Visit the [program](/program.html) page for more detail.
+
 | Day | Morning (10:00~12:00) | Lunch Time (12:00~13:30) | Afternoon (13:30~16:30) | Afterhours  |
 | ---------- | -------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------- | ------- |
 | 6th (Sun)  | Opening remarks (0.5) + invited talk (1)     | Free discussion in zoom rooms (virtual lunch) | Authorsâ€™ talks (1.5) + Coffee Break (0.5) + Invited talk (1)  |         |
