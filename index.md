@@ -15,8 +15,11 @@ The meetup is going to be held in Japan Standard Time during NeurIPS. In additio
 The official languages of this meetup are English and Japanese. 
 > このミートアップでは英語と日本語を使用することが出来ます．
 
-Registration page is available soon. Every participant needs to follow NeurIPS’s [code of conduct](https://nips.cc/public/CodeOfConduct).
+Registration page will be available soon. Every participant needs to follow NeurIPS’s [code of conduct](https://nips.cc/public/CodeOfConduct).
 > 登録ページは現在作成中です．参加にあたってはNeurIPSの[code of conduct](https://nips.cc/public/CodeOfConduct)の遵守をお願いします．
 
 To get started, please visit the [information](/info.html) page.
-> [INFORMATION](/info.html)
+> 詳細は[INFORMATION](/info.html)をご覧ください．
+
+For Women in ML, please visit the [WiML](/wiml.html) page.
+> Women in MLについては[WiML](/wiml.html)をご覧ください．

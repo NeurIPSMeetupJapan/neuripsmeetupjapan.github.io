@@ -17,13 +17,14 @@ Registration page is available soon. Every participant needs to follow NeurIPS�
 
 ### Program Overview
 
-Visit the [program](/program.html) page for more detail.
+Visit the [Program](/program.html) page for more detail.
+> 詳細は[Program](/program.html)をご覧ください．
 
 | Day | Morning (10:00~12:00) | Lunch Time (12:00~13:30) | Afternoon (13:30~16:30) | Afterhours  |
 | ---------- | -------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------- | ------- |
-| 6th (Sun)  | Opening remarks (0.5) + invited talk (1)     | Free discussion in zoom rooms (virtual lunch) | Authors’ talks (1.5) + Coffee Break (0.5) + Invited talk (1)  |         |
-| 9th (Wed)  | Keynotes                                     | Free discussion in zoom rooms (virtual lunch) | Invited talk (1) + Coffee break (0.5) + WiML (1.5)            | Banquet |
-| 12th (Sat) | Keynotes [The Real AI Revolution by Bishop?] | Free discussion in zoom rooms (virtual lunch) | Authors’ talks (1.5) +  Coffee break (0.5) + Invited talk (1) |         |
+| 6th (Sun)  | Opening remarks (0.5) + invited talk (1)     | Free discussion (Virtual lunch) | Authors’ talks (1.5) + Coffee Break (0.5) + Invited talk (1)  |         |
+| 9th (Wed)  | Keynotes                                     | Free discussion (Virtual lunch) | Invited talk (1) + Coffee break (0.5) + WiML (1.5)            | Banquet |
+| 12th (Sat) | Keynotes [The Real AI Revolution by Bishop?] | Free discussion (Virtual lunch) | Authors’ talks (1.5) +  Coffee break (0.5) + Invited talk (1) |         |
 
 ### Access
 
