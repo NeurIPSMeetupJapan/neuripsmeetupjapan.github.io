@@ -22,7 +22,7 @@ Visit the [program](/program.html) page for more detail.
 | Day | Morning (10:00~12:00) | Lunch Time (12:00~13:30) | Afternoon (13:30~16:30) | Afterhours  |
 | ---------- | -------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------- | ------- |
 | 6th (Sun)  | Opening remarks (0.5) + invited talk (1)     | Free discussion in zoom rooms (virtual lunch) | Authors’ talks (1.5) + Coffee Break (0.5) + Invited talk (1)  |         |
-| 9th (Wed)  | Keynotes                                     | Free discussion in zoom rooms (virtual lunch) | Invited talk (1)+ Coffee break (0.5) + WiML (1.5)             | Banquet |
+| 9th (Wed)  | Keynotes                                     | Free discussion in zoom rooms (virtual lunch) | Invited talk (1) + Coffee break (0.5) + WiML (1.5)            | Banquet |
 | 12th (Sat) | Keynotes [The Real AI Revolution by Bishop?] | Free discussion in zoom rooms (virtual lunch) | Authors’ talks (1.5) +  Coffee break (0.5) + Invited talk (1) |         |
 
 ### Access
@@ -38,7 +38,7 @@ Detail of how to access the broadcasting will be available soon.
 - Suzana Ilic (MLTokyo)
 - Kuroki Yuko (UTokyo, RIKEN AIP) \| 黒木祐子 (東京大学, 理研AIP)
 - Hashimoto Yuka (NTT, Keio Univ) \| 橋本悠香 (NTT, 慶應義塾大学)
-- Nan Lu (UTokyo, RIKEN AIP)
+- Nan Lu (UTokyo, RIKEN AIP) \| 鲁楠 (東京大学, 理研AIP)
 - Kawashima Hirono (Keio Univ) \| 川島寛乃 (慶應義塾大学)
 - Kawano Makoto (UTokyo) \| 河野慎 (東京大学)
 
