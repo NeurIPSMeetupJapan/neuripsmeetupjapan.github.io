@@ -40,7 +40,7 @@ Dates and titles to be determined 日程・内容は調整中です
 - Kai Arulkumaran (Araya)
 - Hannna Sumita (TokyoTech) \| 澄田範奈 (東京工業大学)
 
-####　Autors' Talks | 著者講演
+####　Autors' Talks  著者講演
 
 - Akifumi Okuno (ISM, RIKEN AIP) \| 奥野彰文（統計数理研究所，理研AIP）
 - Motoya Onishi (University of Wachington) \| 大西基也（ワシントン大学）
