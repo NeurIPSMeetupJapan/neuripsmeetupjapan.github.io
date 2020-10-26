@@ -38,7 +38,7 @@ Dates and titles to be determined 日程などは調整中です
 - Makoto Yamada (KyotoU, RIKEN AIP) \| 山田誠（京都大学，理研AIP）
 - David Ha (Google)
 - Kai Arulkumaran (Araya)
-- Hannna Sumita (TokyoTech) \| 澄田範奈 (東京工業大学)
+- Hanna Sumita (TokyoTech) \| 澄田範奈 (東京工業大学)
 
 #### Autors' Talks  著者講演
 
