@@ -8,17 +8,10 @@ banner: /assets/images/banners/transfer.jpeg
 tags: [info, social]
 ---
 
-Welcome to NeurIPS Japan meetup! 
-> NeurIPS Japan meetupへようこそ！
-
-### Registration
-Registration page is available soon. Every participant needs to follow NeurIPS’s code of conduct. 
-> 登録ページは現在作成中です．参加にあたってはNeurIPSのcode of conductの遵守をお願いします．
-
-### Program Overview
+### Program Overview 概要
 
 Visit the [Program](/program.html) page for more detail.
-> 詳細は[Program](/program.html)をご覧ください．
+詳細は[Program](/program.html)をご覧ください．
 
 | Day | Morning (10:00~12:00) | Lunch Time (12:00~13:30) | Afternoon (13:30~16:30) | Afterhours  |
 | ---------- | -------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------- | ------- |
@@ -26,9 +19,10 @@ Visit the [Program](/program.html) page for more detail.
 | 9th (Wed)  | Keynotes                                     | Free discussion (Virtual lunch) | Invited talk (1) + Coffee break (0.5) + WiML (1.5)            | Banquet |
 | 12th (Sat) | Keynotes [The Real AI Revolution by Bishop?] | Free discussion (Virtual lunch) | Authors’ talks (1.5) +  Coffee break (0.5) + Invited talk (1) |         |
 
-### Access
+### Registeration 登録方法
+Registration page will be available soon.
 
-Detail of how to access the broadcasting will be available soon.
+登録ページは現在作成中です．
 
 
 ### Organizers
