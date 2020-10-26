@@ -18,16 +18,33 @@ The official languages of this meetup are English and Japanese.
 このミートアップでは英語と日本語を使用することが出来ます．
 
 
-Registration page will be available soon. Every participant needs to follow NeurIPS’s [code of conduct](https://nips.cc/public/CodeOfConduct).
+Registration page will be available soon. Every participant needs to follow NeurIPS’s [code of conduct](https://nips.cc/public/CodeOfConduct). To get started, please visit the [Information](/info.html) page.
 
-登録ページは現在作成中です．参加にあたってはNeurIPSの[code of conduct](https://nips.cc/public/CodeOfConduct)の遵守をお願いします．
-
-
-To get started, please visit the [Information](/info.html) page.
-
-詳細は[Information](/info.html)をご覧ください．
+登録ページは現在作成中です．参加にあたってはNeurIPSの[code of conduct](https://nips.cc/public/CodeOfConduct)の遵守をお願いします．詳細は[Information](/info.html)をご覧ください．
 
 
 For Women in ML, please visit the [WiML](/wiml.html) page.
 
 Women in MLについては[WiML](/wiml.html)をご覧ください．
+
+---
+
+### Contents 内容
+
+Dates and titles to be determined 日程・内容は調整中です
+
+#### Invited Talks 招待講演
+
+- Makoto Yamada (KyotoU, RIKEN AIP) \| 山田誠（京都大学，理研AIP）
+- David Ha (Google)
+- Kai Arulkumaran (Araya)
+- Hannna Sumita (TokyoTech) \| 澄田範奈 (東京工業大学)
+
+####　Autors' Talks | 著者講演
+
+- Akifumi Okuno (ISM, RIKEN AIP) \| 奥野彰文（統計数理研究所，理研AIP）
+- Motoya Onishi (University of Wachington) \| 大西基也（ワシントン大学）
+- Kenta Oono (UTokyo,PFN) \| 大野健太（東京大学，PFN）
+- Isao Ishikawa (Ehime Univ.) \| 石川勲（愛媛大学）
+- Masahiro Kato (Cyber Agent)  \| 加藤真大（サイバーエージェント）
+- Nan Lu (UTokyo, RIKEN AIP) \| 鲁楠 (東京大学, 理研AIP)
