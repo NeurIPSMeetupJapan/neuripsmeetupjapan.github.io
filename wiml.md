@@ -12,17 +12,20 @@ Women in ML (WiML) aims to enhance the experience of women in machine learning b
 
 Women in ML (WiML)は機械学習に関わる女性をつなぎ，女性が機械学習コミュニティに参加しやすい環境を整備することを目指しています．
 
-WiML will be held on December 9th from 15:00 to 16:30. 
+Registration page for WiML is [here](https://forms.gle/4min7ZWcbwQCPNNMA). The capacity for WiML is set to 25 participants on a first come, first serve basis.
 
-WiMLは12月9日15時から16時半まで開催されます．
+WiMLへの参加は[こちら](https://forms.gle/4min7ZWcbwQCPNNMA)から登録をお願いします．WiMLは先着25名までの参加とさせて頂きます.
 
 ### Contents \| 内容
 
-* Mentorship roundtable
-* Networking
+- 2:30 pm – Welcome words
+- 2:35 pm – Blitz 自己紹介 – getting to know each other. Self-introduction by participants.
+- 3:15 pm – Break out rooms
+- 3:55 pm – Closing remarks
 
 #### Organizers
 
 - Suzana Ilic (MLTokyo)
 - Kuroki Yuko (UTokyo, RIKEN AIP) \| 黒木祐子 (東京大学, 理研AIP)
 - Nan Lu (UTokyo, RIKEN AIP) \| 鲁楠 (東京大学，理研AIP)
+- Hashimoto Yuka (NTT, Keio Univ) \| 橋本悠香 (NTT, 慶應義塾大学)
