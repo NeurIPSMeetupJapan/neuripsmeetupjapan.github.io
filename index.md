@@ -3,7 +3,7 @@ layout: home
 title: Home
 heading: NeurIPS Meetup 2020
 subheading: Virtual (JST - UTC+9) | 6th, 9th, and 12th December, 2020
-notice: Registration page is [here](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241). [こちら](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241)から登録をお願いします．
+notice: 
 banner: /assets/images/banners/transfer.jpeg
 ---
 
