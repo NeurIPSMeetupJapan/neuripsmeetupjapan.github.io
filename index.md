@@ -17,10 +17,13 @@ The official languages of this meetup are English and Japanese.
 
 このミートアップでは英語と日本語を使用することが出来ます．
 
+#### Registration \| 参加登録
 
 Registration page is [here](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241). Every participant needs to follow NeurIPS’s [code of conduct](https://nips.cc/public/CodeOfConduct). To get started, please visit the [Information](/info.html) page.
 
 [こちら](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241)から登録をお願いします．参加にあたってはNeurIPSの[code of conduct](https://nips.cc/public/CodeOfConduct)の遵守をお願いします．詳細は[Information](/info.html)をご覧ください．
+
+#### WiML
 
 For Women in ML, please visit the [WiML](/wiml.html) page.
 
@@ -29,6 +32,8 @@ Women in MLについては[WiML](/wiml.html)をご覧ください．
 ---
 
 ### Contents 内容
+
+See [info](/info.html) for more details. 詳細は[info](/info.html)をご覧ください.
 
 #### Invited Talks 招待講演　（敬称略）
 
@@ -48,4 +53,4 @@ Women in MLについては[WiML](/wiml.html)をご覧ください．
 
 #### Virtual Coffee Breaks, Lunches, and Banquet
 
-We will host virtual coeeff breaks, lunches, and banquet for communication of participants. 参加者の交流のためバーチャルの休憩時間、昼食会、バンケットをもうけます。
+We will host virtual coeeff breaks, lunches, and banquet for communication of participants. 参加者の交流のためバーチャルの休憩時間，昼食会，バンケットをもうけます．
