@@ -3,7 +3,7 @@ layout: home
 title: Home
 heading: NeurIPS Meetup 2020
 subheading: Virtual (JST - UTC+9) | 6th, 9th, and 12th December, 2020
-notice: "Registration page is available soon | 登録ページは現在作成中です" 
+notice: Registration page is [here](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241). [こちら](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241)から登録をお願いします．
 banner: /assets/images/banners/transfer.jpeg
 ---
 
@@ -18,9 +18,9 @@ The official languages of this meetup are English and Japanese.
 このミートアップでは英語と日本語を使用することが出来ます．
 
 
-Registration page will be available soon. Every participant needs to follow NeurIPS’s [code of conduct](https://nips.cc/public/CodeOfConduct). To get started, please visit the [Information](/info.html) page.
+Registration page is [here](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241). Every participant needs to follow NeurIPS’s [code of conduct](https://nips.cc/public/CodeOfConduct). To get started, please visit the [Information](/info.html) page.
 
-登録ページは現在作成中です．参加にあたってはNeurIPSの[code of conduct](https://nips.cc/public/CodeOfConduct)の遵守をお願いします．詳細は[Information](/info.html)をご覧ください．
+[こちら](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241)から登録をお願いします．参加にあたってはNeurIPSの[code of conduct](https://nips.cc/public/CodeOfConduct)の遵守をお願いします．詳細は[Information](/info.html)をご覧ください．
 
 For Women in ML, please visit the [WiML](/wiml.html) page.
 
