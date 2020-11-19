@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-heading: NeurIPS Meetup 2020
+heading: NeurIPS Meetup Japan 2020
 subheading: Virtual (JST - UTC+9) | 6th, 9th, and 12th December, 2020
 notice: 
 banner: /assets/images/banners/transfer.jpeg

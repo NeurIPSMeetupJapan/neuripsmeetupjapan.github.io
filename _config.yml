@@ -4,12 +4,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NeurIPS Japan Meetup
+title: NeurIPS Meetup Japan
 email: 
-author: NeurIPS Japan Meetup Organizers
-copyright: NeurIPS Japan Meetup
+author: NeurIPS Meetup Japan Organizers
+copyright: NeurIPS Meetup Japan
 description: >- # this means to ignore newlines until "baseurl:"
-    Neural Information Processing Systems Official Meetup in Tokyo, Japan.
+    Neural Information Processing Systems Official Meetup in Japan.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
