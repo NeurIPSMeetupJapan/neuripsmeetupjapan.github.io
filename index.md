@@ -45,7 +45,7 @@ See [info](/info.html) for more details. 詳細は[info](/info.html)をご覧く
 
 #### Author talks  著者講演　（敬称略）
 
-- akifumi okuno (ism, riKEN AIP) \| 奥野彰文（統計数理研究所，理研AIP）
+- Akifumi Okuno (ISM, RIKEN AIP) \| 奥野彰文（統計数理研究所，理研AIP）
 - Motoya Onishi (University of Wachington) \| 大西基也（ワシントン大学）
 - Kenta Oono (UTokyo,PFN) \| 大野健太（東京大学，PFN）
 - Isao Ishikawa (Ehime Univ.) \| 石川勲（愛媛大学）
