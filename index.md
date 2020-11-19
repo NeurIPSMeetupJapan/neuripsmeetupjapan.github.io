@@ -43,7 +43,7 @@ See [info](/info.html) for more details. 詳細は[info](/info.html)をご覧く
 - Hanna Sumita (TokyoTech) \| 澄田範奈 (東京工業大学)
 - Yoshiaki Irie (TOYOTA) \| 入江喜朗（トヨタ自動車）
 
-#### Autors' talks  著者講演　（敬称略）
+#### Autors talks  著者講演　（敬称略）
 
 - akifumi okuno (ism, riKEN AIP) \| 奥野彰文（統計数理研究所，理研AIP）
 - Motoya Onishi (University of Wachington) \| 大西基也（ワシントン大学）
