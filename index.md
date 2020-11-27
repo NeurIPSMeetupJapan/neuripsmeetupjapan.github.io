@@ -50,6 +50,7 @@ See [info](/info.html) for more details. 詳細は[info](/info.html)をご覧く
 - Kenta Oono (UTokyo,PFN) \| 大野健太（東京大学，PFN）
 - Isao Ishikawa (Ehime Univ.) \| 石川勲（愛媛大学）
 - Nan Lu (UTokyo, RIKEN AIP) \| 鲁楠 (東京大学, 理研AIP)
+- Stefano Massaroli (UTokyo)
 
 #### Virtual Coffee Breaks, Lunches, and Banquet
 
