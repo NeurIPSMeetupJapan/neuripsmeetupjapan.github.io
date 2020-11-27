@@ -37,20 +37,21 @@ See [info](/info.html) for more details. 詳細は[info](/info.html)をご覧く
 
 #### Invited Talks 招待講演　（敬称略）
 
-- Makoto Yamada (KyotoU, RIKEN AIP) \| 山田誠（京都大学，理研AIP）
-- David Ha (Google)
-- Kai Arulkumaran (Araya)
-- Hanna Sumita (TokyoTech) \| 澄田範奈 (東京工業大学)
-- Yoshiaki Irie (TOYOTA) \| 入江喜朗（トヨタ自動車）
+- Makoto Yamada (KyotoU, RIKEN AIP) \| 山田誠（京都大学，理研AIP）[*](https://neuripsmeetupjapan.github.io/talk/2020/12/06/talk1.html)
+- Yoshiaki Irie (TOYOTA) \| 入江喜朗（トヨタ自動車）[*](https://neuripsmeetupjapan.github.io/talk/2020/12/06/talk2.html)
+- Hanna Sumita (TokyoTech) \| 澄田範奈 (東京工業大学) [*](https://neuripsmeetupjapan.github.io/talk/2020/12/09/talk3.html)
+- David Ha (Google) [*](https://neuripsmeetupjapan.github.io/talk/2020/12/09/talk4.html)
+- Kai Arulkumaran (Araya) [*](https://neuripsmeetupjapan.github.io/talk/2020/12/12/talk5.html)
 
 #### Author talks  著者講演　（敬称略）
 
+- Stefano Massaroli (UTokyo)
 - Akifumi Okuno (ISM, RIKEN AIP) \| 奥野彰文（統計数理研究所，理研AIP）
+- Nan Lu (UTokyo, RIKEN AIP) \| 鲁楠 (東京大学, 理研AIP)
+
 - Motoya Onishi (University of Wachington) \| 大西基也（ワシントン大学）
 - Kenta Oono (UTokyo,PFN) \| 大野健太（東京大学，PFN）
 - Isao Ishikawa (Ehime Univ.) \| 石川勲（愛媛大学）
-- Nan Lu (UTokyo, RIKEN AIP) \| 鲁楠 (東京大学, 理研AIP)
-- Stefano Massaroli (UTokyo)
 
 #### Virtual Coffee Breaks, Lunches, and Banquet
 
