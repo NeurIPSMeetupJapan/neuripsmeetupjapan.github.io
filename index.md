@@ -49,7 +49,7 @@ See [info](/info.html) for more details. 詳細は[info](/info.html)をご覧く
 - Akifumi Okuno (ISM, RIKEN AIP) \| 奥野彰文（統計数理研究所，理研AIP）[*](https://neuripsmeetupjapan.github.io/discussion/2020/12/06/study2.html)
 - Nan Lu (UTokyo, RIKEN AIP) \| 鲁楠 (東京大学, 理研AIP) [*](https://neuripsmeetupjapan.github.io/discussion/2020/12/06/study3.html)
 
-- Motoya Onishi (University of Wachington) \| 大西基也（ワシントン大学） [*](https://neuripsmeetupjapan.github.io/discussion/2020/12/12/study4.html)
+- Motoya Ohnishi (University of Washington) \| 大西基也（ワシントン大学） [*](https://neuripsmeetupjapan.github.io/discussion/2020/12/12/study4.html)
 - Kenta Oono (UTokyo,PFN) \| 大野健太（東京大学，PFN）[*](https://neuripsmeetupjapan.github.io/discussion/2020/12/12/study5.html)
 - Isao Ishikawa (Ehime Univ.) \| 石川勲（愛媛大学）[*](https://neuripsmeetupjapan.github.io/discussion/2020/12/12/study6.html)
 
