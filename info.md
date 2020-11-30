@@ -30,10 +30,10 @@ Registration page is [here](https://c5dc59ed978213830355fc8978.doorkeeper.jp/eve
 - Hiroaki Yamane (UTokyo, RIKEN AIP) \| 山根宏彰 (東京大学, 理研AIP)
 - Hoang NT (TokyoTech, RIKEN AIP)
 - Suzana Ilic (MLTokyo)
-- Kuroki Yuko (UTokyo, RIKEN AIP) \| 黒木祐子 (東京大学, 理研AIP)
-- Hashimoto Yuka (NTT, Keio Univ) \| 橋本悠香 (NTT, 慶應義塾大学)
+- Yuko Kuroki (UTokyo, RIKEN AIP) \| 黒木祐子 (東京大学, 理研AIP)
+- Yuka Hashimoto (NTT, Keio Univ) \| 橋本悠香 (NTT, 慶應義塾大学)
 - Nan Lu (UTokyo, RIKEN AIP) \| 鲁楠 (東京大学, 理研AIP)
-- Kawano Makoto (UTokyo) \| 河野慎 (東京大学)
+- Makoto Kawano (UTokyo) \| 河野慎 (東京大学)
 - Hikari Amano (MathWorks Japan) \| 天野光（MathWorks Japan）
 - Sakiko Nakashima (MathWorks Japan) \| 中島咲子（MathWorks Japan）
 
