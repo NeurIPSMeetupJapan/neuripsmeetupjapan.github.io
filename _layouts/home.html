@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang }}">
+<head>
+  {%- include head.html -%}
+</head>
+<body>
+
+<!-- navbar -->
+<nav class="navbar navbar-expand-md navbar-dark bg-dark shadow fixed-top">
+  <div class="container">
+    <a class="navbar-brand" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#schedule">Schedule</a>
+        </li>
+        <li class="nav-item">
+          <a class="btn btn-primary" href="{{ site.register_link }}">Register</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!-- navbar -->
+
+<!-- head image -->
+<header class="head-image" style="background-image: url('assets/images/fuji.jpg')">
+  <div class="container h-100">
+    <div class="row h-100 align-items-center">
+      <div class="col-12 text-center">
+        <h1 class="font-weight-light">{{ site.title | escape }}</h1>
+        <h2 class="font-weight-light">{{ site.event_time | escape }} | {{ site.event_venue | escape }}</h2>
+        <p class="lead">{{ site.event_description | escape }}</p>
+        <p><a href="{{ site.register_link }}" class="btn btn-primary btn-lg">Register</a></p>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- head image -->
+
+<!-- content -->
+<main class="content" aria-label="Content">
+  <section class="py-5">
+    <div class="container">
+      {{ content }}
+    </div>
+  </section>
+</main>
+<!-- content -->
+
+</body>
+</html>
