@@ -11,13 +11,7 @@ TBD
 
 TBD
 
-### Invited Talks 招待講演
-
-TBD
-
-### Author Talks  著者講演
-
-TBD
+{% include_relative schedule.html %}
 
 ## Organizers
 
