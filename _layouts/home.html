@@ -21,7 +21,7 @@
           <a class="nav-link" href="#schedule">Schedule</a>
         </li>
         <li class="nav-item">
-          <a class="btn btn-primary" href="{{ site.register_link }}">Register</a>
+          <a class="btn btn-primary" href="{{ site.register_link }}" target="_blank">Register</a>
         </li>
       </ul>
     </div>
@@ -37,7 +37,7 @@
         <h1 class="font-weight-light">{{ site.title | escape }}</h1>
         <h2 class="font-weight-light">{{ site.event_time | escape }} | {{ site.event_venue | escape }}</h2>
         <p class="lead">{{ site.event_description | escape }}</p>
-        <p><a href="{{ site.register_link }}" class="btn btn-primary btn-lg">Register</a></p>
+        <p><a class="btn btn-primary btn-lg" href="{{ site.register_link }}" target="_blank">Register</a></p>
       </div>
     </div>
   </div>
