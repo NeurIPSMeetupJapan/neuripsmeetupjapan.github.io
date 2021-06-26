@@ -1,6 +1,5 @@
 ---
 layout: home
-title: NeurIPS Meetup Japan 2021
 ---
 
 ## About
