@@ -1,7 +1,7 @@
 <div class="accordion pt-3 pb-3">
   {% assign sorted_events = site.events | sort: 'datetime' %}
   {% for event in sorted_events %}
-  {% capture event-id %}{{ event.title | downcase | replace: ' ', '-'}}{% endcapture %}
+  {% capture event-id %}id{{ event.datetime | date: "%s" }}{% endcapture %}
   <div class="card">
     <!-- header -->
       <div class="card-header {{event.category}} text-left collapsed" 
