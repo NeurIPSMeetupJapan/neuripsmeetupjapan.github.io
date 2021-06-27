@@ -16,7 +16,7 @@
     <!-- body -->
     <div id="{{ event-id }}" class="collapse">
       <div class="card-body">
-        <p class="card-text">{{ event.content | remove: "<p>" | remove: "</p>" }}</p>
+        {{ event.content }}
       </div>
     </div>
   </div>
