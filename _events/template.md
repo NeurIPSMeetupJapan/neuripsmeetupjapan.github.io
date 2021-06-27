@@ -1,6 +1,6 @@
 ---
 category: invited
-datetime: 2021-12-06T10:00:00
+datetime: 2021-12-06T10:00:00Z
 
 title: Title
 speaker: Speaker
