@@ -7,6 +7,16 @@ title: NeurIPS Meetup Japan 2021
 
 TBD
 
+## Call for Participation
+
+### Presentation
+
+TBD
+
+### Registration
+
+TBD
+
 ## Schedule
 
 TBD
