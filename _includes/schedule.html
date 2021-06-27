@@ -1,4 +1,4 @@
-<div class="accordion pb-5">
+<div class="accordion pt-3 pb-3">
   {% assign sorted_events = site.events | sort: 'datetime' %}
   {% for event in sorted_events %}
   {% capture event-id %}{{ event.title| downcase | replace: ' ', '-'}}{% endcapture %}
