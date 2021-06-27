@@ -1,0 +1,9 @@
+$sans-serif: 
+  -apple-system, BlinkMacSystemFont,
+  "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ Pro W3", "Meiryo", "メイリオ",
+  "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial,
+  sans-serif !default;
+
+body {
+  font-family: $sans-serif;
+}
