@@ -19,12 +19,8 @@ TBD
 
 ## Schedule
 
-TBD
-
 {% include schedule.html %}
 
 ## Organizers
-
-TBD
 
 {% include committee.html %}
