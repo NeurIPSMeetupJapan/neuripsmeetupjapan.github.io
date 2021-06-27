@@ -27,6 +27,8 @@ TBD
 
 ## Schedule
 
+All dates and times are in Japan Standard Time (JST/UTC+9).
+
 {% include schedule.html %}
 
 ## Organizers
