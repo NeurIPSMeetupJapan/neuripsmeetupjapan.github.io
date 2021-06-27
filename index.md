@@ -16,3 +16,5 @@ TBD
 ## Organizers
 
 TBD
+
+{% include committee.html %}
