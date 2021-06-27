@@ -11,7 +11,7 @@ TBD
 
 TBD
 
-{% include_relative schedule.html %}
+{% include schedule.html %}
 
 ## Organizers
 

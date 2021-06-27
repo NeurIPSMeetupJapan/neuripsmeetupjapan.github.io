@@ -6,5 +6,7 @@ event_venue: TBD
 event_description: Hello!
 register_link: https://www.google.com
 
+timezone: Asia/Tokyo
+
 collections:
   - events
