@@ -42,3 +42,10 @@
     background-color: #eebbcb;
   }
 }
+
+.activity {
+  background-color: lighten(#abced8, 10%);
+  &:hover {
+    background-color: #abced8;
+  }
+}
