@@ -19,15 +19,16 @@ For this year's meetup event, we will
 - host a **mentoring session** for participants to discuss current research trends and career choices with our invited mentors from industry and academia;
 - run a **panel discussion** to discuss the applications and futures of machine learning;
 - organize a **women in machine learning** event for women researchers and engineers to interact with each other, find support, and build more technical confidence.
+
 Please join us!
 
 ## Call for Participation
 
-### Presentation
+### Meetup Registration
 
 TBD
 
-### Registration
+### Poster Presentation
 
 TBD
 
