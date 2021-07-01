@@ -56,7 +56,7 @@ All dates and times are in Japan Standard Time (JST/UTC+9).
 
 ## Organizing Committee
 
-{% include committee.html %}
+{% include organizer.html %}
 
 ## Advisory Committee
 
