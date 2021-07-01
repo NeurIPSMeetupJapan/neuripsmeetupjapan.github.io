@@ -10,7 +10,7 @@ NeurIPS is a flagship conference in machine learning and more general artificial
 This virtual NeurIPS meetup aims to bring together students, researchers, and engineers who are related to or interested in these topics for an opportunity to connect, exchange ideas, and learn from each other.
 Underrepresented minorities and undergraduates interested in machine learning are encouraged to attend.
 This meetup is going to be held in Japan Standard Time during the NeurIPS conference.
-Our official languages are **English and Japanese**.
+The official languages for this meetup are **English and Japanese**.
 
 For this year's meetup, we will
 
