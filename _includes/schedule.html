@@ -1,0 +1,24 @@
+<div class="accordion pt-3 pb-3">
+  {% assign sorted_events = site.events | sort: 'datetime' %}
+  {% for event in sorted_events %}
+  {% capture event-id %}id{{ event.datetime | date: "%s" }}{% endcapture %}
+  <div class="card">
+    <!-- header -->
+      <div class="card-header {{event.category}} text-left collapsed" 
+      data-toggle="collapse" data-target="#{{ event-id }}" 
+      aria-expanded="false" aria-controls="{{ event-id }}">
+        <h6 class="font-weight-light">{{ event.datetime | date: "%F %R" }} | {{ event.category | capitalize | replace: '-', ' ' }}</h6>
+        <h5 class="card-title">{{ event.title }}</h5>
+        {% if event.speaker %}
+          <h6 class="card-subtitle font-weight-light">{{ event.speaker }} | {{ event.affiliation }}</h6>
+        {% endif %}
+      </div>
+    <!-- body -->
+    <div id="{{ event-id }}" class="collapse">
+      <div class="card-body">
+        {{ event.content }}
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+</div>

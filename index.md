@@ -1,58 +1,59 @@
 ---
 layout: home
-title: Home
-heading: NeurIPS Meetup Japan 2020
-subheading: Virtual (JST - UTC+9) | 6th, 9th, and 12th December, 2020
-notice: 
-banner: /assets/images/banners/transfer.jpeg
+title: NeurIPS Meetup Japan 2021
 ---
 
-Welcome to NeurIPS meetup Japan! NeurIPS is a top conference of machine learning, computational neuroscience, and their applications. This virtual meetup aims to connect students, researchers, and engineers related and interested in these topics. Especially, those who are new to these topics are welcome at this event! 
-The meetup is going to be held in Japan Standard Time during NeurIPS. In addition to NeurIPS’s keynote talks, we will broadcast talks by invited speakers and authors from institutions in Japan. Most importantly, we will have virtual “coffee breaks,” “lunch,” and “banquet” for participants to know each other and discuss various topics related to NeurIPS. 
+## About
 
-NeurIPS meetup Japanへようこそ！NeurIPSは機械学習，計算論的神経科学，およびその応用といった研究分野の主要な国際会議です．本ミートアップはこれらの研究分野に関連する学生，研究者，開発者をつなぐことを目指しています．もちろん，これらの分野に興味があり，新しく始めてみたい方も大歓迎です． 本ミートアップはNeurIPSと同時に日本時間で開催され，NeurIPSのキーノートに加え，招待講演者および日本の研究機関のNeurIPS採択論文著者による講演を放送します．また，交流・議論の場として，オンラインの「コーヒーブレイク」「ランチ」「バンケット」などを設けます．
+Welcome to **NeurIPS meetup Japan 2021**!
+NeurIPS is a flagship conference in machine learning and more general artificial intelligence.
+This virtual NeurIPS meetup aims to bring together students, researchers, and engineers who are related to or interested in these topics for an opportunity to connect, exchange ideas, and learn from each other.
+Underrepresented minorities and undergraduates interested in machine learning are encouraged to attend.
+This meetup is going to be held in Japan Standard Time during the NeurIPS conference.
+The official languages for this meetup are **English and Japanese**.
 
+For this year's meetup, we will
 
-The official languages of this meetup are English and Japanese. 
+- stream NeurIPS keynote **talks**, as well as talks by our invited speakers and authors from institutions in Japan;
+- provide a **social venue** for researchers and practitioners to meet fellow participants and build local communities;
+- launch a **poster session** for participants to explain and promote their work to a wider audience, and engage in technical and professional conversations in a positive and supportive environment;
+- host a **mentoring session** for participants to discuss current research trends and career choices with our invited mentors from industry and academia;
+- run a **panel discussion** to discuss the applications and futures of machine learning;
+- organize a **women in machine learning** event for women researchers and engineers to interact with each other, find support, and build more technical confidence.
 
-このミートアップでは英語と日本語を使用することが出来ます．
-
-#### Registration \| 参加登録
-
-Registration page is [here](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241). Every participant needs to follow NeurIPS’s [code of conduct](https://nips.cc/public/CodeOfConduct). To get started, please visit the [Information](/info.html) page.
-
-[こちら](https://c5dc59ed978213830355fc8978.doorkeeper.jp/events/114241)から登録をお願いします．参加にあたってはNeurIPSの[code of conduct](https://nips.cc/public/CodeOfConduct)の遵守をお願いします．詳細は[Information](/info.html)をご覧ください．
-
-#### WiML
-
-For Women in ML, please visit the [WiML](/wiml.html) page.
-
-Women in MLについては[WiML](/wiml.html)をご覧ください．
+Please join us!
 
 ---
 
-### Contents 内容
+**NeurIPS Meetup Japan 2021**へようこそ！NeurIPSは機械学習及び人工知能の分野における最重要国際会議の一つです．NeurIPSのオンラインミートアップとして，機械学習・人工知能分野に関連する学生，研究者，開発者をつなぎ，交流の機会を提供することを目指します．マイノリティグループの皆様や機械学習に関心のある学部生の積極的なご参加もお待ちしております．日本時間（JST）に開催される予定で，**英語と日本語**を使用することができます．
 
-See [info](/info.html) for more details. 詳細は[info](/info.html)をご覧ください.
+今年のミートアップでは，以下の様々なイベント等を予定しています：
 
-#### Invited Talks 招待講演　（敬称略）
+- **講演**：NeurIPS本会議の招待講演の配信，本ミートアップの招待講演，日本の研究機関・企業等から採択された著者による講演を開催します．
+- **交流会**：研究者や開発者の皆様の交流会を開催します．ぜひ交流の輪を広げるためにご活用ください．
+- **ポスターセッション**：本ミートアップ参加者が他の参加者と技術的な議論を行う場として，ポスター発表を行うセッションを開催します．ぜひご自身の研究を紹介する機会としてご活用ください．
+- **メンターセッション**：企業やアカデミアからメンターを招待し，メンターとともに，参加者は最近の研究動向や人生キャリアについてディスカッションを行います．
+- **パネルディスカッション**：機械学習の応用や将来展望についてディスカッションするイベントを開催します．
+- **機械学習の女性コミュニティ(WiML)**：女性研究者や女性エンジニアがお互いに交流，議論，相談し合えるためのイベントを開催します．
 
-- Makoto Yamada (KyotoU, RIKEN AIP) \| 山田誠（京都大学，理研AIP）[*](https://neuripsmeetupjapan.github.io/talk/2020/12/06/talk1.html)
-- Yoshiaki Irie (TOYOTA) \| 入江喜朗（トヨタ自動車）[*](https://neuripsmeetupjapan.github.io/talk/2020/12/06/talk2.html)
-- Hanna Sumita (TokyoTech) \| 澄田範奈 (東京工業大学) [*](https://neuripsmeetupjapan.github.io/talk/2020/12/09/talk3.html)
-- David Ha (Google) [*](https://neuripsmeetupjapan.github.io/talk/2020/12/09/talk4.html)
-- Kai Arulkumaran (Araya) [*](https://neuripsmeetupjapan.github.io/talk/2020/12/12/talk5.html)
+ぜひご参加ください！
 
-#### Author talks  著者講演　（敬称略）
+## Call for Participation
 
-- Stefano Massaroli (UTokyo) [*](https://neuripsmeetupjapan.github.io/discussion/2020/12/06/study1.html)
-- Akifumi Okuno (ISM, RIKEN AIP) \| 奥野彰文（統計数理研究所，理研AIP）[*](https://neuripsmeetupjapan.github.io/discussion/2020/12/06/study2.html)
-- Nan Lu (UTokyo, RIKEN AIP) \| 鲁楠 (東京大学, 理研AIP) [*](https://neuripsmeetupjapan.github.io/discussion/2020/12/06/study3.html)
+### Meetup Registration
 
-- Motoya Ohnishi (University of Washington) \| 大西基也（ワシントン大学） [*](https://neuripsmeetupjapan.github.io/discussion/2020/12/12/study4.html)
-- Kenta Oono (UTokyo,PFN) \| 大野健太（東京大学，PFN）[*](https://neuripsmeetupjapan.github.io/discussion/2020/12/12/study5.html)
-- Isao Ishikawa (Ehime Univ.) \| 石川勲（愛媛大学）[*](https://neuripsmeetupjapan.github.io/discussion/2020/12/12/study6.html)
+TBD
 
-#### Virtual Coffee Breaks, Lunches, and Banquet
+### Poster Presentation
 
-We will host virtual coeeff breaks, lunches, and banquet for communication of participants. 参加者の交流のためバーチャルの休憩時間，昼食会，バンケットをもうけます．
+TBD
+
+## Schedule
+
+All dates and times are in Japan Standard Time (JST/UTC+9).
+
+{% include schedule.html %}
+
+## Committee
+
+{% include committee.html %}
